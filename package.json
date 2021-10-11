@@ -1,0 +1,22 @@
+{
+  "name": "static-hosting",
+  "version": "1.0.0",
+  "description": "Static hosting for VPSNode",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SudoSecurity/static-hosting.git"
+  },
+  "author": "Shadow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SudoSecurity/static-hosting/issues"
+  },
+  "homepage": "https://github.com/SudoSecurity/static-hosting#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
